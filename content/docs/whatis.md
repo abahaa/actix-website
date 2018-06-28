@@ -9,7 +9,7 @@ weight: 100
 Actix is a few things.  The base of it is a powerful actor system for Rust on
 top of which the `actix-web` system is built.  This is what you are most likely
 going to work with.  What `actix-web` gives you is a fun and very fast web
-development framework.
+development framework
 
 We call `actix-web` a small and pragmatic framework.  For all intents and purposes
 it's a microframework with a few twists.  If you are already a Rust programmer
@@ -23,5 +23,5 @@ server `actix-web` is powerful enough to provide HTTP 1 and HTTP 2 support as
 well as SSL/TLS.  This makes it useful for building small services ready for
 distribution.
 
-Most importantly: `actix-web` runs on Rust 1.24 or later and it works with
+Most importantly actix-web runs on Rust 1.24 or later and it works with
 stable releases.
